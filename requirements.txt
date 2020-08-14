@@ -13,4 +13,5 @@ seaborn==0.9.0
 wordcloud==1.7.0
 tweepy==3.8.0
 textblob==0.15.3
+vader-sentiment==3.2.1.1
 
